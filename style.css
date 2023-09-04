@@ -1,3 +1,12 @@
 html{
-    background: greenyellow
+    background: rgb(225, 167, 199)
+}
+p[draggable]{
+    color: deeppink;
+}
+h1{
+    color:rgb(180, 13, 118)
+}
+.color-css{
+    color:thistle;
 }
