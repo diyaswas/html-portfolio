@@ -3,10 +3,12 @@ html{
 }
 p[draggable]{
     color: #EFB495;
+    font-size: 20 pt;
 }
 h1{
     color:#EF9595;
 }
 .color-css{
-    color: #f0cc73
+    color: #f0cc73;
+    font-size: 1em;
 }
