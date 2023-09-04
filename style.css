@@ -7,8 +7,10 @@ p[draggable]{
 }
 h1{
     color:#EF9595;
+    font-family: 'Architects Daughter';
 }
 .color-css{
-    color: #f0cc73;
+    color: #f2b824;
     font-size: 1em;
+    font-family: Serif;
 }
